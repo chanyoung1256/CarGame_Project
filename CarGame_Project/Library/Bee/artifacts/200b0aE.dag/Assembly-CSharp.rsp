@@ -344,6 +344,13 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/RCK 2.3/Scripts/CarSwitch.cs"
+"Assets/RCK 2.3/Scripts/PoliceLights.cs"
+"Assets/RCK 2.3/Scripts/VehicleCamera.cs"
+"Assets/RCK 2.3/Scripts/VehicleControl.cs"
+"Assets/RCK 2.3/Scripts/VehicleDamage.cs"
+"Assets/RCK 2.3/Skidmarks/Skidmarks Essentials/Skidmarks.cs"
+"Assets/RCK 2.3/Skidmarks/WheelSkidmarks.cs"
 "Assets/Script/Car_InputKey.cs"
 "Assets/Script/Move_Car.cs"
 -langversion:9.0
