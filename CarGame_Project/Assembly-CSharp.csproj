@@ -42,6 +42,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets/Script/Move_Car.cs" />
+     <Compile Include="Assets/Script/Car_InputKey.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/POLYGON city pack/Prefabs/Floor" />
      <Folder Include="Assets/POLYGON city pack/Meshes,textures/traffic signs FBX" />
@@ -78,6 +79,7 @@
      <Folder Include="Assets/ARCADE - FREE Racing Car/Skybox/Night" />
      <Folder Include="Assets/ARCADE - FREE Racing Car/Materials/Color Variations" />
      <Folder Include="Assets/ARCADE - FREE Racing Car/Meshes" />
+     <Folder Include="Assets/Animation" />
      <Folder Include="Assets/POLYGON city pack/Meshes,textures/Buildings_FBX" />
      <Folder Include="Assets/ARCADE - FREE Racing Car/Materials" />
      <Folder Include="Assets/POLYGON city pack/Prefabs/Props" />
