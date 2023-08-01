@@ -41,15 +41,15 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets/RCK 2.3/Scripts/VehicleControl.cs" />
+     <Compile Include="Assets/RCK 2.3/Scripts/VehicleDamage.cs" />
      <Compile Include="Assets/Script/Move_Car.cs" />
-     <Compile Include="Assets/Script/Car_InputKey.cs" />
-     <Compile Include="Assets/RCK 2.3/Scripts/VehicleCamera.cs" />
+     <Compile Include="Assets/RCK 2.3/Scripts/PoliceLights.cs" />
      <Compile Include="Assets/RCK 2.3/Skidmarks/Skidmarks Essentials/Skidmarks.cs" />
      <Compile Include="Assets/RCK 2.3/Skidmarks/WheelSkidmarks.cs" />
      <Compile Include="Assets/RCK 2.3/Scripts/CarSwitch.cs" />
-     <Compile Include="Assets/RCK 2.3/Scripts/PoliceLights.cs" />
-     <Compile Include="Assets/RCK 2.3/Scripts/VehicleControl.cs" />
-     <Compile Include="Assets/RCK 2.3/Scripts/VehicleDamage.cs" />
+     <Compile Include="Assets/Script/Car_InputKey.cs" />
+     <Compile Include="Assets/RCK 2.3/Scripts/VehicleCamera.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets/_TerrainAutoUpgrade" />
      <Folder Include="Assets/RCK 2.3/Sounds/NewSounds/Car" />
